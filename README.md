@@ -2,6 +2,10 @@
 
 Wanna visualzie graph problems of AtCoder? Look no further!
 This program converts inputs to typical graph problems into graph, with support for trees and directed graphs.
+
+## Dependencies
+To visualize graphs, `xdot` is required. Please install it before using this program.
+
 ## Supported input format
 ```
 N M
